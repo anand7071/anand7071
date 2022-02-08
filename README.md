@@ -1,4 +1,5 @@
                                                        ** Hi 👋 I'm Anand Gupta**
+                       - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 
 <!--
 **anand7071/anand7071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
